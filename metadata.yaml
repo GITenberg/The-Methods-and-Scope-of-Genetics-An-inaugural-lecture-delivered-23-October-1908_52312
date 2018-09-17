@@ -1,5 +1,8 @@
 _repo: The-Methods-and-Scope-of-Genetics-An-inaugural-lecture-delivered-23-October-1908_52312
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52312-h/images/cover.jpg
 creator:
   author:
     agent_name: Bateson, William
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33456
     wikipedia: http://en.wikipedia.org/wiki/William_Bateson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52312#The-Methods-and-Scope-of-Genetics-An-inaugural-lecture-delivered-23-October-1908
 gutenberg_issued: '2016-06-12'
 gutenberg_type: Text
 identifiers:
